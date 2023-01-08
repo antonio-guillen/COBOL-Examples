@@ -7,4 +7,3 @@ All program were written using [GnuCOBOL](https://gnucobol.sourceforge.io/) in L
 
 
 
-Esto es una prueba para mostrar como funciona git blame
